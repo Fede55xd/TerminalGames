@@ -1,18 +1,24 @@
 @echo off
-echo Lista de Juegos en la Carpeta "juegos":
+echo Bienvenid@ a TerminalGames
+echo Este es un programa el cual es capaz de ejecutar juegos bÃ¡sicos directamente desde la terminal (cmd) de Windows.
+echo Este programa y los juegos que estÃ¡n en el fueron creados por Sebastian (RobleUY) y estÃ¡n dirigidos principalmente a usuarios con computadoras no tan potentes.
+echo puede ser ejecutado en computadoras de gama alta pero estÃ¡ enfocado principalmente para aquellas personas que no tienen la posibilidad de ejecutar juegos mÃ¡s elaborados.
+echo con este programa la posibilidad de divertirse amplia el pÃºblico y hace posible que aquellas personas con recursos limitados puedan divertirse y enfrentar el aburrimiento
+echo 
+echo Gracias por leer y por descargar.
 echo --------------------------------------
 
-rem Cambia la ruta de la carpeta según tu ubicación
+
 set "carpeta=juegos"
 
-rem Verificar si la carpeta existe
+
 if not exist "%carpeta%\" (
     echo La carpeta "%carpeta%" no existe.
     pause
     exit /b
 )
 
-rem Listar los juegos con números
+
 setlocal enabledelayedexpansion
 set "contador=1"
 for %%i in ("%carpeta%\*.bat") do (
@@ -22,10 +28,10 @@ for %%i in ("%carpeta%\*.bat") do (
 
 echo --------------------------------------
 
-rem Solicitar al usuario elegir un juego
-set /p "opcion=Ingresa el numero del juego que deseas jugar (0 para salir): "
 
-rem Validar la opción
+set /p "opcion=Ingresa el numero del juego que deseas jugar o escribe (0 para salir): "
+
+
 if "%opcion%" equ "0" (
     echo Saliendo del programa.
     pause
@@ -36,7 +42,7 @@ set /a "opcionValida=%opcion%"
 if !opcionValida! leq 0 goto opcionInvalida
 if !opcionValida! gtr !contador! goto opcionInvalida
 
-rem Obtener el nombre del juego seleccionado
+
 set "juegoSeleccionado="
 set /a "indice=0"
 for %%i in ("%carpeta%\*.bat") do (
@@ -55,7 +61,6 @@ exit /b
 :jugarJuego
 echo Jugando al juego: !juegoSeleccionado!
 
-rem Ejecutar el juego seleccionado con el comando "start"
 start "" "%carpeta%\!juegoSeleccionado!"
 
 echo Presiona una tecla para continuar...
