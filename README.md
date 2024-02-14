@@ -1,4 +1,4 @@
 # TerminalGames
-Juegos ejecutables desde la terminal de  windows, archivos .bat
+Juegos ejecutables desde la terminal de  windows (cmd), archivos .bat
 
 ## Creador del proyecto: RobleUY
