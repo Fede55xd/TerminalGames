@@ -23,7 +23,7 @@ for %%i in ("%carpeta%\*.bat") do (
 echo --------------------------------------
 
 rem Solicitar al usuario elegir un juego
-set /p "opcion=Ingresa el número del juego que deseas jugar (0 para salir): "
+set /p "opcion=Ingresa el numero del juego que deseas jugar (0 para salir): "
 
 rem Validar la opción
 if "%opcion%" equ "0" (
@@ -48,7 +48,7 @@ for %%i in ("%carpeta%\*.bat") do (
 )
 
 :opcionInvalida
-echo Opción no válida. Por favor, ingresa un número de juego válido.
+echo Opcion no valida. Por favor, ingresa un numero de juego valido.
 pause
 exit /b
 
