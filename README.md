@@ -4,6 +4,8 @@
 ![Ya Hay Juegos Disponibles](https://img.shields.io/github/directory-file-count/Fede55xd/TerminalGames/terminal-games/juegos?label=Ya%20Hay%20&suffix=%20Juegos%20Disponibles)
 
 # TerminalGames 🎮
+![Ya Hay Juegos Disponibles](https://img.shields.io/github/directory-file-count/Fede55xd/TerminalGames/terminal-games/juegos?label=Ya%20Hay%20&suffix=%20Juegos%20Disponibles)
+
 Juegos ejecutables desde la terminal de Windows (cmd), archivos .bat 🍭
 
 ### 📁 DESCARGAR PROYECTO
