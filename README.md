@@ -5,7 +5,7 @@
 # TerminalGames 🎮
 Juegos ejecutables desde la terminal de Windows (cmd), archivos .bat 🍭
 
-
+src="https://readme-typing-svg.demolab.com?font=Honk&size=30&duration=5002&pause=1000&color=CFD2F7&center=true&vCenter=true&random=false&width=500&lines=+Bienvenidos+a+TerminalGames;Espero+disfrutes+mi+contenido+%F0%9F%A5%B0;Recuerda+darme+una+estrellita+%E2%AD%90" alt="Typing SVG" /></a>
 
 # METAS 🏁
 ### +10 Juegos 🔒
