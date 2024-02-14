@@ -19,9 +19,9 @@ Juegos ejecutables desde la terminal de Windows (cmd), archivos .bat 🍭
 
 
 # METAS 🏁
-### +10 Juegos 🔓
-### +50 Juegos 🔒
-### +100 juegos 🔒
+### +10 Juegos 🔓 ✅
+### +50 Juegos 🔒 ❌
+### +100 juegos 🔒 ❌
 
 
 
