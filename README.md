@@ -5,7 +5,7 @@
 # TerminalGames 🎮
 Juegos ejecutables desde la terminal de Windows (cmd), archivos .bat 🍭
 
-# 📁 DESCARGAR PROYECTO
+### 📁 DESCARGAR PROYECTO
 > **Note** Descargué y Descomprime
 ### [`Pulsa Aquí Para Descargar`](https://github.com/Fede55xd/TerminalGames/archive/refs/heads/master.zip)
 
