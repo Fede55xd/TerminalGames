@@ -2,8 +2,7 @@
   <img src="https://www.profesionalreview.com/wp-content/uploads/2021/09/Terminal-de-comandos-12.png" alt="TerminalGames" width="800"/>
 </p>
 
-# TerminalGames 🎮
-## ![Juegos Disponibles →](https://img.shields.io/github/directory-file-count/Fede55xd/TerminalGames/terminal-games/juegos?label=Juegos%20Disponibles&logoColor=yellow&style=for-the-badge)
+# TerminalGames 🎮 ![Juegos Disponibles →](https://img.shields.io/github/directory-file-count/Fede55xd/TerminalGames/terminal-games/juegos?label=Juegos%20Disponibles&logoColor=yellow&style=for-the-badge)
 
 
 Juegos ejecutables desde la terminal de Windows (cmd), archivos .bat 🍭
