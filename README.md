@@ -3,7 +3,7 @@
 </p>
 
 # TerminalGames 🎮
-## ![Juegos Disponibles:](https://img.shields.io/github/directory-file-count/Fede55xd/TerminalGames/terminal-games/juegos?label=Juegos%20Disponibles&logoColor=yellow&style=for-the-badge)
+## ![Juegos Disponibles →](https://img.shields.io/github/directory-file-count/Fede55xd/TerminalGames/terminal-games/juegos?label=Juegos%20Disponibles&logoColor=yellow&style=for-the-badge)
 
 
 Juegos ejecutables desde la terminal de Windows (cmd), archivos .bat 🍭
