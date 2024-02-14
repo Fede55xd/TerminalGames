@@ -1,7 +1,7 @@
-color 0a
 @echo off
 setlocal EnableDelayedExpansion
 
+color 0a
 
 set /a saldo=100
 set /a ganancia_objetivo=1000
@@ -18,10 +18,9 @@ echo ------------------------------------------------------------
 set /p apuesta="Ingresa la cantidad para apostar ('salir' para salir): "
 if "%apuesta%"=="salir" goto fin
 
-
 if !apuesta! leq 0 (
     echo ------------------------------------------------------------
-    echo Ingresa una apuesta válida.
+    echo Ingresa una apuesta valida.
     echo ------------------------------------------------------------
     timeout /nobreak /t 2 >nul
     goto inicio
@@ -29,31 +28,27 @@ if !apuesta! leq 0 (
 
 if !apuesta! gtr !saldo! (
     echo ------------------------------------------------------------
-    echo No puedes apostar más de lo que tienes.
+    echo No puedes apostar mas de lo que tienes.
     echo ------------------------------------------------------------
     timeout /nobreak /t 2 >nul
     goto inicio
 )
 
-
 set /a resultado=!random! %% 100 + 1
 
 if !resultado! lss %porcentaje_ganar% (
- 
     set /a ganancia=apuesta
     set /a saldo+=ganancia
     echo ------------------------------------------------------------
-    echo La moneda cayó en cara y ganaste: +!ganancia!
+    echo La moneda cayo en cara y ganaste: +!ganancia!
     echo ------------------------------------------------------------
 ) else (
-
     set /a perdida=apuesta
     set /a saldo-=perdida
     echo ------------------------------------------------------------
-    echo La moneda cayó en cruz y perdiste: -!perdida!
+    echo La moneda cayo en cruz y perdiste: -!perdida!
     echo ------------------------------------------------------------
 )
-
 
 if !saldo! geq %ganancia_objetivo% (
     echo ------------------------------------------------------------
@@ -61,7 +56,6 @@ if !saldo! geq %ganancia_objetivo% (
     echo ------------------------------------------------------------
     goto fin
 )
-
 
 if !saldo! leq 0 (
     echo ------------------------------------------------------------
