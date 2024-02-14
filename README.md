@@ -23,7 +23,6 @@ El propósito principal de TerminalGames es proporcionar una alternativa de dive
 - Simulador de apuestas
 - Preguntas y respuestas
 - ETC
-- 
 ---
 
 *Nota: Este proyecto es una iniciativa de RobleUY para hacer que el entretenimiento sea accesible a todos, independientemente de los recursos disponibles.*
