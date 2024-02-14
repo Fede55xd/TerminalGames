@@ -15,6 +15,7 @@ Juegos ejecutables desde la terminal de Windows (cmd), archivos .bat 🍭
 4. Diviértete.
 
 
+![Archivos en la carpeta juegos](https://img.shields.io/github/directory-file-count/Fede55xd/TerminalGames/terminal-games/juegos?label=juegos)
 
 # METAS 🏁
 ### +10 Juegos 🔒
