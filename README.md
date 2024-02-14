@@ -5,16 +5,23 @@
 # TerminalGames 🎮
 Juegos ejecutables desde la terminal de Windows (cmd), archivos .bat 🍭
 
-### 📁 DESCARGAR PROYECTO
+# 📁 DESCARGAR PROYECTO
 > **Note** Descargué y Descomprime
 ### [`Pulsa Aquí Para Descargar`](https://github.com/Fede55xd/TerminalGames/archive/refs/heads/master.zip)
-[![blog](https://img.shields.io/badge/Termux-RobleBOT-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/UcWlyQ8u5HE)
+
+# Instrucciones de Uso ⤵️
+1. Descarga el repositorio a tu máquina local.
+2. Descomprime  el archivo.
+3. Ejecuta con doble click el archivo "Jugar".
+4. 
+
+
 
 # METAS 🏁
 ### +10 Juegos 🔒
 ### +50 Juegos 🔒
 ### +100 juegos 🔒
+
 
 
 # Acerca del Proyecto 🏋️‍♂️
@@ -24,14 +31,9 @@ Bienvenido a TerminalGames, un proyecto creado por RobleUY para brindar entreten
 
 # Objetivo del Proyecto 🎯
 El propósito principal de TerminalGames es proporcionar una alternativa de diversión para aquellos que no pueden acceder fácilmente a juegos más elaborados. Diseñados con eficiencia y simplicidad en mente, estos juegos .bat son ideales para pasar el tiempo y combatir el aburrimiento. 🔆
+Diviertete.
 
 
-
-# Instrucciones de Uso ⤵️
-1. Descarga el repositorio a tu máquina local.
-2. Descomprime  el archivo TerminalGames.zip.
-3. Ejecuta con doble click el archivo "Jugar".
-4. Diviertete.
 
 😁 ¡Disfruta de la diversión directamente desde la terminal! ✌️
 
@@ -47,8 +49,10 @@ El propósito principal de TerminalGames es proporcionar una alternativa de dive
 #### ✍️ *Nota: Este proyecto es una iniciativa de RobleUY para hacer que el entretenimiento sea accesible a todos, independientemente de los recursos disponibles.* ✍️
 
 
+
 # Proyecto RobleBOT
 #### RobleBOT es un bot para WhatsApp gratuito, disponible para su uso en el grupo de WhatsApp oficial.
+
 
 
 [![WhatsApp](https://img.shields.io/badge/Pulsa_Aquí_Para_Unirte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HoYx0dhtoTXIOIthHbwDsZ)
