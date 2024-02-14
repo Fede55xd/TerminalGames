@@ -12,7 +12,7 @@ Juegos ejecutables desde la terminal de Windows (cmd), archivos .bat 🍭
 1. Descarga el repositorio a tu máquina local.
 2. Descomprime  el archivo.
 3. Ejecuta con doble click el archivo "Jugar".
-4. 
+4. Diviértete.
 
 
 
