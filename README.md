@@ -10,7 +10,7 @@ Juegos ejecutables desde la terminal de Windows (cmd), archivos .bat 🍭
 ### +50 Juegos 🔒
 ### +100 juegos 🔒
 
-
+[![WhatsApp](https://img.shields.io/badge/RobleBOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HoYx0dhtoTXIOIthHbwDsZ)
 
 # Acerca del Proyecto 🏋️‍♂️
 Bienvenido a TerminalGames, un proyecto creado por RobleUY para brindar entretenimiento accesible a personas con recursos limitados. Estos juegos simples, ejecutables desde la terminal de Windows, ofrecen una variedad de opciones, como por ejemplo simuladores de apuestas, desafiantes preguntas y respuestas, lanzamientos de dados y varios juegos más. ☘️
