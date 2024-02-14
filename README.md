@@ -50,7 +50,7 @@ Diviertete.
 
 
 # Proyecto RobleBOT
-#### RobleBOT es un bot para WhatsApp gratuito desarrollado también por RobleUY. #### actualmente se encuentra disponible para su uso en el grupo de WhatsApp oficial.
+#### RobleBOT es un bot para WhatsApp gratuito desarrollado también por RobleUY. Actualmente se encuentra disponible para su uso en el grupo de WhatsApp oficial.
 
 
 
