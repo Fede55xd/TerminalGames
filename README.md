@@ -11,7 +11,7 @@ Bienvenido a TerminalGames, un proyecto creado por RobleUY para brindar entreten
 ## Objetivo del Proyecto 🎯
 El propósito principal de TerminalGames es proporcionar una alternativa de diversión para aquellos que no pueden acceder fácilmente a juegos más elaborados. Diseñados con eficiencia y simplicidad en mente, estos juegos .bat son ideales para pasar el tiempo y combatir el aburrimiento. 🔆
 
-## Instrucciones de Uso
+## Instrucciones de Uso ⤵️
 1. Descarga el repositorio a tu máquina local.
 2. Descomprime  el archivo TerminalGames.zip.
 3. Ejecuta con doble click el archivo "Jugar".
