@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://www.profesionalreview.com/wp-content/uploads/2021/09/Terminal-de-comandos-12.png" alt="TerminalGames" width="800"/>
 </p>
-![Ya Hay Juegos Disponibles](https://img.shields.io/github/directory-file-count/Fede55xd/TerminalGames/terminal-games/juegos?label=Ya%20Hay%20&suffix=%20Juegos%20Disponibles)
 
 # TerminalGames 🎮
-![Ya Hay Juegos Disponibles](https://img.shields.io/github/directory-file-count/Fede55xd/TerminalGames/terminal-games/juegos?label=Ya%20Hay%20&suffix=%20Juegos%20Disponibles)
+## Ya tenemos ![Archivos en la carpeta juegos](https://img.shields.io/github/directory-file-count/Fede55xd/TerminalGames/terminal-games/juegos?label=juegos) disponibles.
+
 
 Juegos ejecutables desde la terminal de Windows (cmd), archivos .bat 🍭
 
