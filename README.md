@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://www.profesionalreview.com/wp-content/uploads/2021/09/Terminal-de-comandos-12.png" alt="TerminalGames" width="800"/>
 </p>
-
+![Archivos en la carpeta juegos](https://img.shields.io/github/directory-file-count/Fede55xd/TerminalGames/terminal-games/juegos?label=JUEGOS YA DISPONIBLES)
 # TerminalGames 🎮
 Juegos ejecutables desde la terminal de Windows (cmd), archivos .bat 🍭
 
@@ -15,7 +15,6 @@ Juegos ejecutables desde la terminal de Windows (cmd), archivos .bat 🍭
 4. Diviértete.
 
 
-![Archivos en la carpeta juegos](https://img.shields.io/github/directory-file-count/Fede55xd/TerminalGames/terminal-games/juegos?label=juegos)
 
 # METAS 🏁
 ### +10 Juegos 🔒
