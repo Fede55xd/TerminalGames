@@ -5,6 +5,12 @@
 # TerminalGames 🎮
 Juegos ejecutables desde la terminal de Windows (cmd), archivos .bat 🍭
 
+### 📁 DESCARGAR PROYECTO
+> **Note** Descargué y Descomprime
+### [`Pulsa Aquí Para Descargar`](https://github.com/Fede55xd/TerminalGames/archive/refs/heads/master.zip)
+[![blog](https://img.shields.io/badge/Termux-RobleBOT-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+](https://youtu.be/UcWlyQ8u5HE)
+
 # METAS 🏁
 ### +10 Juegos 🔒
 ### +50 Juegos 🔒
